@@ -14,3 +14,4 @@ Projede daha önce stajımda projelerde kullanmış olduğum sensörlerden biri 
 ### TCRT5000 Sensörü:
 Temel olarak bir kontrast sensörü olan TCRT5000 Kızılötesi Yansıma Sensör Modülü - Optik Sensör bir kızılötesi LED ve foto dirençten oluşur. Herhangi bir yüzeye kızılötesi ışık yansıtıp geri yansıyan ışın parlaklığı ölçülerek çalışan bu sensör ölçümleri foto direnç üzerinden yapar. Devre haline getirilen bu sensör ile dijital ve analog çıkış alabilirsiniz. Çizgi izleyen robotlarda, mini sumo, sumo ve çeşitli birçok robotta kolayca kullanılabilinir. Dijital çıkış kullanmanız durumunda üzerinde bulunan potansiyometre ile kalibrasyon yapmanız mümkündür.
 
+![1](https://user-images.githubusercontent.com/83128364/172061119-466d504c-e009-4994-85e2-ec567070b19a.png)
