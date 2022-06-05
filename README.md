@@ -14,19 +14,34 @@ Projede daha önce stajımda projelerde kullanmış olduğum sensörlerden biri 
 ### TCRT5000 Sensörü:
 Temel olarak bir kontrast sensörü olan TCRT5000 Kızılötesi Yansıma Sensör Modülü - Optik Sensör bir kızılötesi LED ve foto dirençten oluşur. Herhangi bir yüzeye kızılötesi ışık yansıtıp geri yansıyan ışın parlaklığı ölçülerek çalışan bu sensör ölçümleri foto direnç üzerinden yapar. Devre haline getirilen bu sensör ile dijital ve analog çıkış alabilirsiniz. Çizgi izleyen robotlarda, mini sumo, sumo ve çeşitli birçok robotta kolayca kullanılabilinir. Dijital çıkış kullanmanız durumunda üzerinde bulunan potansiyometre ile kalibrasyon yapmanız mümkündür.
 
+### Devre ve Sensör Görüntüleri:
+![WhatsApp Image 1](https://user-images.githubusercontent.com/83128364/172061226-079fe2bc-85f7-461f-a31b-93804c2359ea.jpeg)
+
+![WhatsApp Image 2](https://user-images.githubusercontent.com/83128364/172061234-5637cf6c-5216-4a9c-9a00-8aaaaa076ac9.jpeg)
+
+![WhatsApp Image 3](https://user-images.githubusercontent.com/83128364/172061237-3a55b938-8fae-4a5a-ae12-80d3c6ea23c5.jpeg)
+
+### Labview Programı Görüntüleri:
 ![1](https://user-images.githubusercontent.com/83128364/172061119-466d504c-e009-4994-85e2-ec567070b19a.png)
 
 ![2](https://user-images.githubusercontent.com/83128364/172061139-6d4b5fba-b0b6-4ec4-9099-260381013ce9.png)
+
 ![3](https://user-images.githubusercontent.com/83128364/172061144-039bad68-cb90-4ac5-8e8d-8c3a987f5a3c.png)
+
 ![4](https://user-images.githubusercontent.com/83128364/172061147-40015b13-c111-4ea5-91ef-c24e35d8f8e3.png)
+
 ![5](https://user-images.githubusercontent.com/83128364/172061152-bd88c071-7987-4924-8c91-a30b241b8731.png)
+
 ![6](https://user-images.githubusercontent.com/83128364/172061157-272249bc-808f-4111-b960-ce2f52dfa326.png)
+
 ![7](https://user-images.githubusercontent.com/83128364/172061162-4bc202a6-c984-47d7-865e-bae480cdfd93.png)
+
 ![8](https://user-images.githubusercontent.com/83128364/172061165-b303ced7-ecfa-47aa-bca2-78971021604f.png)
+
 ![9](https://user-images.githubusercontent.com/83128364/172061168-39a5cbee-4c7e-4033-abf2-7c6df880fffb.png)
+
 ![10](https://user-images.githubusercontent.com/83128364/172061170-b83baaab-ae91-4711-bee8-ae57b238b834.png)
+
 ![11](https://user-images.githubusercontent.com/83128364/172061176-b1ba839d-eecb-48ef-87b1-f8b3c3a59b7b.png)
+
 ![12](https://user-images.githubusercontent.com/83128364/172061178-ae7b33c2-ac04-43cd-8a73-1ae8059badf3.png)
-![WhatsApp Image 1](https://user-images.githubusercontent.com/83128364/172061226-079fe2bc-85f7-461f-a31b-93804c2359ea.jpeg)
-![WhatsApp Image 2](https://user-images.githubusercontent.com/83128364/172061234-5637cf6c-5216-4a9c-9a00-8aaaaa076ac9.jpeg)
-![WhatsApp Image 3](https://user-images.githubusercontent.com/83128364/172061237-3a55b938-8fae-4a5a-ae12-80d3c6ea23c5.jpeg)
