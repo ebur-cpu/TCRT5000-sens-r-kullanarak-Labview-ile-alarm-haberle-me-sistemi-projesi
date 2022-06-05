@@ -30,13 +30,11 @@ Temel olarak bir kontrast sensörü olan TCRT5000 Kızılötesi Yansıma Sensör
 
 ![4](https://user-images.githubusercontent.com/83128364/172061147-40015b13-c111-4ea5-91ef-c24e35d8f8e3.png)
 
-![5](https://user-images.githubusercontent.com/83128364/172061152-bd88c071-7987-4924-8c91-a30b241b8731.png)
-
-![6](https://user-images.githubusercontent.com/83128364/172061157-272249bc-808f-4111-b960-ce2f52dfa326.png)
-
 ![7](https://user-images.githubusercontent.com/83128364/172061162-4bc202a6-c984-47d7-865e-bae480cdfd93.png)
 
 ![8](https://user-images.githubusercontent.com/83128364/172061165-b303ced7-ecfa-47aa-bca2-78971021604f.png)
 
 ![10](https://user-images.githubusercontent.com/83128364/172061170-b83baaab-ae91-4711-bee8-ae57b238b834.png)
+
+![6](https://user-images.githubusercontent.com/83128364/172061157-272249bc-808f-4111-b960-ce2f52dfa326.png)
 
